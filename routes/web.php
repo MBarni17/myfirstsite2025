@@ -7,7 +7,7 @@ Route::get('/', function () {
 });
 
 Route::get('/hello', function () {
-    return "Hello world!";
+    return "Hello világ!";
 });
 
 Route::get('/valami', function () {
