@@ -70,7 +70,7 @@ Route::get('/vezerlo/{post}', [
     'show'
 ]);
 
-Route::get('/csoport', [
+Route::get('/csoport-tag/{id}', [
     GroupController::class,
-    'list'
+    'show'
 ]);
