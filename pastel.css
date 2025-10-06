@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Mako);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 
 html, body {
 	margin: 0 !important;
@@ -55,7 +57,7 @@ blockquote {
 	clear: both;
 }
 .gallery {
-	/* colors optional
+	/* colors optional 
 	background-color: #87b;
 	color:#fff;
 	/* -- */
